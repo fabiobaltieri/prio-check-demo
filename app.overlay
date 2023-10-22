@@ -1,0 +1,6 @@
+&arduino_i2c {
+	test-i2c-device@20 {
+		compatible = "test-i2c-device";
+		reg = <0x20>;
+	};
+};

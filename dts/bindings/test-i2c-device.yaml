@@ -1,0 +1,5 @@
+description: A random i2c device binding
+
+compatible: "test-i2c-device"
+
+include: i2c-device.yaml
